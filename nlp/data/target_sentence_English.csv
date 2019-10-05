@@ -1,0 +1,10482 @@
+Target Sentence
+"with this network, the traffic management department can instantly detect vehicles that violate 
+laws or regulations, improving transportation safety while increasing traffic efficiency."
+"d
+a
+ta
+
+ a
+n
+
+a
+ly
+
+s
+is
+
+ 
+
+a
+n
+
+d
+ a
+
+p
+p
+
+li
+c
+a
+ti
+
+o
+n
+
+
+
+3
+
+two trends of smart cities against the new ict 
+background
+
+rapid emergence and wide application of 
+
+basic platform technologies
+
+evolution from a simple industry 
+
+ecosystem to a complex one
+
+trend 1: technology trend 2: industry
+
+gsm/umts/lte/5g
+
+nb-iot cloud
+
+big data and ai
+
+iot
+
+user
+
+government
+
+carrier
+
+smart city
+
+content and 
+
+service 
+
+provider
+
+solution 
+
+provider
+
+
+
+4
+
+iot is rapidly changing the development of 
+smart cities
+
+environment 
+
+monitoring
+
+public 
+
+safety
+
+urban 
+
+transportation
+
+infrastructure
+
+smart 
+
+metering
+
+urban 
+
+lighting
+
+smart 
+
+firefighting
+
+sanitation 
+
+management
+
+urban iot infrastructure
+
+pipeline, water, and drainage
+
+garbage management 
+
+and irrigation
+
+smart parking and bike 
+
+sharing
+
+street lamp and charging
+
+electricity, water, and gas meters
+
+atmosphere, hydrology, 
+
+and environment
+
+smoke detector and 
+
+fire hydrant
+
+security supervision and disaster prevention
+
+source: iot analytics 2018
+
+the new wireless network access technology has become a new feature of smart cities."
+"intelligent operation center
+mastering the urban operations situation 
+
+in real time, realizing scientific city 
+
+governance based on big data 
+
+smart policing
+ubiquitous public safety system, 
+
+reducing public safety and criminal cases
+
+improved public safety: the 
+
+number of public safety and criminal 
+
+cases is reduced by about 29% on a 
+
+yoy basis, the biggest drop in 
+
+shenzhen, due to:
+ space-to-ground seamless 
+
+surveillance: improving prevention 
+
+and control;
+ visualized and converged 
+
+command: improving the 
+
+command efficiency;
+ video cloud (big data analytics): 
+
+enhancing massive video search 
+
+efficiency."
+"customer benefits
+
+safe city city management city planningwireless city healthcare
+
+big data platform gis platform
+video communication 
+
+converged platform
+iot platform
+
+cloud computing centerurban wireless private network
+
+""three factors contribute to the success of gaoqing smart city construction: 
+
+first, top-leadership support; second, strong execution teams; third, an 
+
+industry-leading digital partner."
+" the costs of rural drinking water safety monitoring stations were reduced by 30% and 
+
+clean and convenient water was provided for 7 million people."
+"• the 'one law enforcement team for one domain' strategy was implemented in seven 
+
+fields, such as market supervision, transportation, urban and rural construction, land 
+
+planning, agricultural, forestry, and water conservancy, safe production, and health 
+
+inspection."
+" integrated public data of underground pipelines, transportation, and water, heat, 
+
+and gas supply to build safe production monitoring, warning, and prevention 
+
+models."
+" big data and cloud computing technologies are used to implement intelligent 
+
+services regarding people's livelihood, environmental protection, public safety, city 
+
+services, and industrial and commercial activities and innovate the city 
+
+management mechanism."
+"background
+
+ increased tourist traffic in peak seasons threatened cultural relic protection 
+and tourist safety."
+"benefits
+
+south africa smart emm digitally empowers its citizens
+
+
+
+18
+
+案例配图
+
+ high power consumption of traditional street lamps causes serious waste of 
+energy
+
+ management cost of numerous street lamps is high, and failure can not be 
+processed in time 
+
+ traditional street lamp management system uses closed architecture and 
+cannot connect to and manage sensors and controllers on lamps
+
+challenges
+
+smart lighting solution lights up czech smart city
+
+industry-first iot lighting solution for multi-level intelligent control
+
+ 6lowpan mesh network, implements efficient interconnection of numerous street 
+
+lamps
+
+ three-level control mode increases reliability: remote control by agile controller, 
+
+gateway control by iot gateway, and self-control by the lamp controller
+
+ open architecture support flexible expansion of new services 
+
+solutions
+
+ on-demand lighting reduces power consumption by 80% 
+ visualized management and predictive maintenance reduce maintenance costs 
+
+by 90% 
+
+ integrates various value-added apps and allows evolution to smart city
+
+benefits
+
+
+
+19
+
+shenzhen water group takes the lead in completing the world's 
+
+first commercial nb-iot smart water meter project
+
+figure
+
+ many disputes over water fees because water meters are predominately managed by the 
+
+community property management company."
+ must enhance water quality monitoring to ensure water safety across the entire process.
+"deploy 
+
+multiple smart applications including the safe city, smart education, e-tax, and integrated 
+
+government affairs service center in data centers."
+" the safe city system protects people's lives and properties, strengthens national security, and 
+
+reduces the crime rate."
+"huawei may change the information at any time without notice.powerpoint presentation
+
+
+
+
+rapid urbanization has produced various issues
+
+• poor city infrastructure
+
+• inconvenient city life
+
+• insufficient city information integration and sharing
+
+• lack of intelligent urban management procedures
+
+• lack of efficient and agile city services
+
+• traffic congestion
+
+• air pollution, garbage siege
+
+• public safety incidents
+
+• land-use conflicts…
+
+severe urban 
+
+conditions
+
+
+
+customer-business-architecture ai + big data + cloud
+
+business-driven technology-driven
+
+digital transformation fueled by two drivers
+
+
+
+• large number of applications, requiring agile and 
+
+fast rollout
+• rollout duration: days or even months
+• stringent service requirements
+
+• long cycle, heavy investment, and 
+
+high entry barrier
+
+platform + ecosystem: develop an industry-oriented digital 
+
+offerings platform based on the operational backbone
+
+chip hardware network computing storage
+
+application services operationscomponent
+
+
+
+= city os
+
+
+
+愿景和使命
+
+把数字世界带入每个人、每个家庭、每个组织，
+
+构建万物互联的智能世界
+
+bring digital to every person, home and organization 
+
+for a fully connected, intelligent world
+
+• our vision and mission
+
+• bring digital toleading new ict
+building a better
+
+smart city
+
+
+
+smart city facilitates sustainable urban 
+development 
+
+with urban pressures increasing year by year, the smart city concept has been developed as an approach 
+
+to sustainable urban development."
+"applications
+
+platforms
+
+cloud
+
+networks city communication network city iot network
+
+cloud data center
+
+big data service support platform
+
+city dashboard economic operation  energy-consumption index
+
+smart
+ government
+
+smart
+ transportation
+
+operation
+ center
+
+command
+center
+
+decision
+ center
+
+smart 
+campus
+
+smart 
+community
+
+safe 
+city
+
+ict application enabling platform
+
+ioc operation management platform
+
+leading new ict  building a better smart city 3
+
+
+
+intelligent operation center
+
+the intelligent operation center, coupled with high-performance data networks, provides an integrated and 
+
+interconnected city management platform."
+"5 leading new ict  building a better smart city 
+
+
+
+high power consumption:
+one 400w street lamp uses up to 
+1,500 degree electricity per year
+
+short life of light source: damaged 
+street lights affect city’s image and 
+public safety
+
+big investment in a single function: 
+low utilization of public resources
+
+1. iot-based smart utilities: smart street lights
+
+challenges
+
+benefits
+
+intelligent light detection and automatic illumination adjustment saves 80% on lighting bills and 90% • 
+
+costs of operation and maintenance."
+"open lab, mexico
+smart city:•  sct, 
+promad
+
+ami: • adm
+
+johannesburg
+
+bangkok
+cairo
+
+landon
+
+paris
+
+dallas
+
+open lab, singapore  
+smart city:•  ida
+
+railway:•  smrt
+
+open lab, dubai   
+oil & gas:•  saudi aramco 
+
+smart city:•  esri, honeywell
+
+safe city:•  hexagon, yitu, zenith
+
+open lab, munich  
+cloud: • t-systems
+
+smart city:•  hexagon
+
+manufacturing:•  kuka
+
+open lab, suzhou 
+bank:•  cec, icbc, ccb
+
+media:•  sobey
+
+government:•  sic
+
+...• 
+
+moscow
+
+leading new ict  building a better smart city 11
+
+
+
+open cooperation: promoting smart city 
+development with partners 
+
+combining leading technologies with best practices, huawei is committed to promoting the 
+
+development of open smart city platforms and vendor ecosystems, globally and locally."
+"lack of development impetus due to geographical constraints
+difficult social governance
+inefficient public services
+mainly low-end
+industries
+decentralization of core resources
+
+
+
+
+
+‹#›
+
+
+
+
+one network (converged network)
+one cloud (distributed cloud architecture)
+one database group (basic database)
+unified internal portal services
+map: geographic information layer
+database: data management layer
+cloud: computing and storage layer
+network: network communications layer
+terminal: iot sensing layer
+data and services
+smart application layer
+saas
+unified external portal services
+unified iot services
+unified map services
+unified big data services
+smart
+center
+smart
+industry
+smart
+government
+smart
+environmental
+protection
+smart
+governance
+safe
+city
+smart
+education
+smart
+transportation
+smart
+healthcare
+smart
+community
+smart
+campus
+
+smart management
+
+benefits for people
+...
+unified o&m services
+unified security services
+……
+data integration
+unified
+infrastructure
+sensors & actuators
+controllers
+smart infrastructure zone
+efficient government collaboration zone
+inclusive public services zone
+refined social management zone
+livable urban environment zone
+modern industry development zone
+a set of maps (geographical information database)
+smart longgang high-level design: 5 + 6 + 11, data integration, benefits for people, and smart management
+
+
+
+
+
+‹#›
+
+4
+
+enabling “one-window"" government services through cloud transformation
+
+cross-agency data sharing
+approval process
+average waiting time
+
+
+online services
+offline “one-window"" handling
+
+
+
+
+
+
+
+
+
+
+70%+
+
+
+
+
+
+
+
+
+
+
+33%+
+
+
+
+
+
+
+
+
+
+
+50%+
+
+
+
+
+
+
+
+‹#›
+breaking data silos to facilitate data sharing and improve service efficiency
+
+
+
+apply online and submit materials offline only once."
+"improving public safety with video cloud and artificial intelligence
+2016 to 2017
+
+15 hours
+
+
+
+
+
+
+
+
+
+
+
+facial recognition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+big data analytics
+
+at 6: 00 a.m., january 27, 2017,
+wuchang railway station,
+the lost child was rescued."
+"‹#›
+目前华为平安城市已经遍布全球, 你可以看到, 华为平安城市已经服务于全球30多个国家, 100多个城市, 4亿人。
+
+华为的平安城市表现到底如何呢？ 下面我们来听一听来自客户的声音。
+------------------------------------------------------------------------------------------------------------------------
+here you can see that, huawei innovative ict based safe city solution has already served 400m population, 100+ cities, in 30+ countries, 5 continentes
+what is the performance after our deployment , let’s hear the voice from the service providers and end users."
+"challenges for fast-growing cities
+
+greener
+efficient
+elte smart city solution, creating new city development mode
+
+
+
+governance
+public utilities
+industrial economies
+
+
+
+safe city
+　　wireless communications network
+　　city iot
+　　municipal cloud dc
+
+service application enabling platform
+big data service support platform
+ict capability exposure platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+smart applications
+three
+platforms
+one
+cloud
+two
+networks
+city surveillance
+…
+
+
+
+governance
+public utilities
+industrial economies
+remote metering
+public services
+smart campus
+smart agriculture
+
+elte
+
+elte-l
+
+
+
+
+
+
+
+
+
+
+elte-l
+
+elte-u
+
+
+
+
+
+
+
+
+
+
+elte-u
+
+elte-iot
+
+
+
+
+
+
+
+
+
+
+elte-iot
+safer
+400 mhz/700 mhz/800 mhz/1.4 ghz/1.8 ghz/2.3 ghz
+voice trunking and group call delay: < 300 ms
+video dispatching with 20-channel concurrent videos per cell
+
+2.4 ghz/5.8 ghz
+2-3x wi-fi coverage
+e2e delay: < 50 ms
+super backhaul capability: 20 mbit/s@35 km
+
+470-510/863-870/902-928 mhz
+maximum coverage: 10 km; basement level: 2
+high-density connection: 10,000 connections per cell
+ultra-low power consumption with a maximum battery service life of 10 years for vehicle detectors of 10 years
+
+
+traffic congestion
+environmental pollution
+city security
+energy shortage
+
+
+
+ism band: 470-510/863-870/902-928 mhz
+
+
+
+1
+
+convergent command, visualized city management
+iot-based monitoring for intelligent fire extinguishing and public fire safety
+smart city solution scenarios – safer
+
+
+pwi – integrated information platform
+
+cad platform
+(hexagon and ds)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+command center
+gis platform
+(supermap, arcgis)
+
+
+
+
+
+
+esdk
+
+
+
+telephone/sms/email/app
+/social media
+
+
+elte-u video backhaul
+
+
+
+
+
+
+
+
+
+
+tetra narrowband trunking
+
+conference terminal
+
+
+
+
+
+
+mobile law enforcement terminal
+law enforcement recorder
+
+
+
+
+
+
+
+
+
+
+
+
+elte broadband trunking
+
+
+wireless cameras integrated with the elte-u module
+
+
+
+
+traditional network cameras connected to the dau
+
+self-developed
+cooperation
+customer pain points
+department information is isolated and cannot be shared or managed."
+"those cities harnessing and 
+exchanging data safely and securely have the potential to make enormous advancements in the fields of 
+healthcare, energy, mobility, education and sustainability."
+"our global success stories include delivering e-government, smart healthcare, smart transport, safe city and 
+smart grid solutions in brazil, nigeria, the netherlands, south africa, china, russia and beyond."
+"however, bristol has  
+edged ahead to take the top position, largely because of the strong momentum it has shown over the last 12 months."
+"aberdeen, bristol, 
+liverpool, london
+
+safety glasgow a state of the art operations centre for city management 
+and citizen engagement; the city is also developing  
+a resilient city programme."
+"12 |  uk smart cities index 2017
+
+1.6.5  public safety and resilience 
+public safety is a prime concern for all cities."
+"because of the criticality of these functions 
+they are not generally a focal point for 
+innovation programs – with research being 
+done through other organisations, often  
+at a national level."
+"public safety and resilience 
+public safety is a prime concern  
+for all cities."
+"bristol has edged ahead largely 
+because of the strong momentum it has shown over the last 12 months across a range of initiatives."
+"another significant development is the implementation 
+of the city operations centre to provide integrated 
+monitoring and management of city services, including 
+the following:
+
+•  traffic management and control
+
+•  closed-circuit tv (cctv) monitoring  
+for safety and security
+
+•  telecare services
+
+•  alarm monitoring
+
+•  out of hours call handling 
+
+additional operations will be added gradually to the centre, 
+and talks with various agencies and service providers are in 
+progress."
+"the £8 million initiative is technology 
+agnostic, and aims to demonstrate safe and efficient 
+integration of automated transport systems."
+"the project is making smart improvements to city 
+infrastructure and services and includes community wellness 
+initiatives, air quality monitoring, a cycling safety scheme, 
+and talkative bus system."
+"the centre has a state-of-the-art integrated traffic and 
+public safety management system, enabling the city to 
+take proactive approaches and have real-time responses to 
+managing city services such as public space cctv, municipal 
+building security, traffic management, and police intelligence."
+"the transport 2030 vision also includes measures to make 
+edinburgh’s transport system smarter and safer through 
+measures such as intelligent traffic control systems, 
+integrated ticketing, and greater use of cctv and lighting."
+"smart city improves quality and intelligence of citizens' livelihood, 
+
+and enhances environmental protection, public safety, urban services, and 
+
+business activities."
+"huawei brings 20 years of ict industry and a comprehensive set of solutions: 
+
+smart government, safe city, smart hospital, smart education, smart transport, 
+
+smart grid, smart enterprise, and smart tourism."
+"the urban infrastructure network universally connects a city's user equipment and application terminals; 
+
+the cloud-based urban data center stores, shares, and integrates the entire sector and subsystem data services; the 
+
+urban information sharing platform carries various smart applications, such as smart government, safe city, smart 
+
+transport, smart enterprise, smart education, and smart hospital."
+"st
+an
+
+da
+rd
+
+s
+
+smart 
+government
+
+master database
+
+lte mobile network
+
+smart terminal rfid reader
+
+iot
+
+sensor video capture device
+
+internet
+
+...
+
+service database
+
+cloud data center
+
+safe city smart transport
+
+smart city operations and maintenance center
+
+smart 
+enterprise
+
+massive data analysis
+
+smart
+hospital
+
+esdk
+
+ubiquitous connectivity
+
+smart city data sharing platform public application support platform
+
+sensor equipment
+
+smart
+education
+
+smart 
+community
+
+smart
+tourism
+
+uc telepresence
+
+ipcc
+esb
+
+byod
+
+ivs
+
+smart
+park
+
+...
+
+...
+
+in
+fo
+
+rm
+at
+
+io
+n 
+
+se
+cu
+
+rit
+y
+
+ubiquitous connectivity1
+information sharing and integration
+cross-sector collaboration
+
+2
+
+smart city reinvents urban architecture
+
+
+
+05
+
+highlights
+
+huawei used its expertise gained from working with government sectors to develop the e-government platform."
+"·  a multi-dimensional security system conforms to three levels of security standards and comprehensively safeguards 
+the virtual government."
+"smart government
+
+smart industry
+
+smart education
+
+smart
+transport
+
+smart
+hospital
+
+smart
+government
+
+emergency
+command
+
+environmental
+protection
+
+energy
+management
+
+smart park
+
+smart city
+
+smart tourism
+
+safe city
+
+sm
+ar
+
+t 
+li
+
+fe
+
+smart government
+as the core of urban management, a municipal government may face 
+
+challenges from public safety, urban transport, emergency handling, 
+
+energy management, and environmental protection."
+"meet internet economic 
+development requirements
+
+facilitate data sharing and 
+exchange and improve 
+
+decision-making accuracy 
+
+allow efficient dercee 
+transmission and ensure 
+
+complete service coverage
+
+provide comprehensive 
+security protection for 
+
+e-government networks
+
+e-government
+network platform
+
+government
+office collaboration 
+
+unified government network
+
+integrated e-government
+
+efficient
+
+convergent
+
+unified
+
+secure
+comprehensive 
+
+security protection
+
+
+
+07
+
+safe city solution
+
+safe city makes full use of integrated data resources throughout a city with a unified management and analysis 
+
+platform."
+"safe city enables the government to gain a comprehensive ""view"" of the city and to take responsive actions 
+
+or make decisions."
+"safe city consists of network, video cloud, ivs management platform, video searching, information 
+
+security management, integrated command center, multimedia trunking, and monitoring and alarm subsystems."
+"it 
+
+improves the interoperability of different systems, combines various application systems, and builds a comprehensive ivs 
+
+system for urban public safety."
+"highlights
+full-coverage safety protection
+ ·  wired and wireless networks support all access 
+
+modes and cover even the remotest areas of a city."
+"video data is integrated through 
+wired and wireless networks, building an urban public 
+safety platform."
+"·  the industry's first commercial use of ""hospital cloud"" helps construct open, green, and safe digital hospitals."
+"09
+
+emergency 
+center
+
+residential 
+district
+
+out-patient 
+area
+
+health 
+bureau
+
+medical 
+institution
+
+hospital
+
+in-patient 
+area
+
+hospital network and 
+security solution
+
+* hospital convergent 
+   network solution
+
+* hospital network 
+   security solution
+
+hospital service innovation solution
+
+* mobile ward round and medical care 
+
+* wireless patient positioning 
+
+* medical cloud and desktop cloud medical station 
+
+hospital
+
+in-patient 
+area
+
+health 
+bureau
+
+medical 
+institution
+
+out-patient 
+area
+
+emergency 
+center
+
+residential 
+district
+
+hospital efficient collaboration solution
+
+* remote consultation
+
+* cross-department collaboration
+
+* remote training
+
+it-based medical health solution
+
+* regional network and data center 
+
+* regional health cloud solution
+
+community 
+hospital
+
+community 
+hospital
+
+
+
+highlights
+
+campus backbone network
+ ·  integrated wired and wireless 
+
+networks
+
+ ·  flexible authentication and 
+accounting
+
+ ·  entire network security 
+control
+
+ ·  delicacy management
+
+security control
+ ·  unified data center
+ ·  high availability and 
+
+unified data storage
+
+ ·  unified disaster 
+recovery and backup
+
+delicacy management
+ ·  hd video teaching and 
+
+conferencing
+
+ ·  safe campus and video 
+surveillance
+
+smart education solution
+
+huawei is dedicated to partnering with global ict-based education enterprises to provide e-education solutions at four 
+
+levels: education cloud, digital campus, interactive classroom, and e-bag."
+"11
+
+solution overview
+
+courseware
+sharing
+
+remote
+teaching
+
+electronic
+proctoring
+
+system
+
+digital
+library online test e-government
+
+service
+portal
+
+appraisal
+on teaching
+performance
+
+esdk
+
+integrated
+platform
+
+microdc modular dc container dc cloud dc
+
+security
+management
+center (smc)
+
+network
+management
+center (esight)
+
+campus network
+office collaboration video surveillance
+
+network
+security internet use
+
+management
+power supply
+surveillance wireless campus
+
+speaker tv
+
+projector
+
+whiteboard
+
+display
+
+unified management of access, 
+policies, and devices
+
+mediapad ascend mini vdi
+
+si/isv
+
+wireless classroom remote classroom online interactive classroom
+speaker
+
+education cloud
+
+appraisal on teaching 
+performance
+
+ebag
+
+interactive classroom
+
+
+
+·  converged voice services for office, intercom, and emergency telephones
+·  ip-based video surveillance: enhances quick response and remote command capabilities at all levels for roadside 
+
+emergency management
+
+·  multi-mode network access: uses the gpon technique because of its high bandwidth, long-distance transmission, 
+and diversified terminal ports; provides comprehensive access for highway tolls, emergency calls, intercom calls, 
+
+video surveillance, information boards, and weather information."
+"·  unified service bearer: uniformly carries charging, voice, video, and office services
+
+huawei smart transport solution takes full advantage of ""fast, efficient, safe, and convenient"" highways with an 
+
+ict-based digital highway platform, carrying data, voice, and video services."
+"telepresense ivs call centerccuc
+
+smart
+government
+
+smart
+transport
+
+safe city smart
+hospital
+
+smart
+education
+
+smart park
+
+data centersdnbyod
+
+virtual
+desktop
+
+server storage network powerinfrastructure
+
+ip network wireless networkdata center
+network
+
+otn/mstp/mw
+
+sightuc&c
+
+unified management
+
+securityenterprise network
+enterprise wireless
+
+data center
+infrastructure
+
+highlights
+
+12
+
+
+
+· liaoyuan's demands for building a high-quality smart city, 
+covering multiple sectors, including city management, 
+
+emergency command, public security, and health care."
+"· deploy a comprehensive analysis and command platform to interconnect applications and eradicate information silos
+· deploy application systems, including smart city management platform, digital city management platform, 
+
+emergency command platform, smart hospital, and safe city
+
+· dynamically allocate resources based on iot and cloud computing
+
+· unified monitoring and optimized camera distribution: enables collaboration and linkage of multiple peripheral units (pus) 
+and multi-platforms; able to deploy strategically by connecting the system with the public security system
+
+· improved work efficiency: extensive use of intelligent analysis and 3d module display in urban management increases work 
+efficiency by 40%
+
+challenges
+
+solutions
+
+benefits
+
+smart liaoyuan: the first smart city in northeast china
+
+global practices: huawei's footprint in 20 safe cities in 20 countries
+
+venezuela
+
+ecuador
+brazil
+
+china south korea
+
+laos
+
+south africa
+
+angola
+
+nigeria
+
+algeria
+
+kyrgyzstan
+
+tajikistan
+
+pakistan
+
+ russia
+
+e-government
+
+safe city
+
+smart healthcare
+
+smart transport
+
+smart grid
+
+...
+
+why huawei?"
+"smart city includes smart government, safe city, smart emergency command, smart food quality control, smart 
+
+transport, smart hospital, smart education, smart grid, smart enterprise, and smart tourism."
+"our success stories include karamay's safe city, hebei langfang's intelligent transport system (its) project, zhejiang 
+
+ningbo's smart hospital solution, and nigeria's emergency command center (ecc) solution."
+"· build the safest city service cloud based on the unified safest city platform
+· interconnect with the police geographic information system (pgis) to implement a wide assortment of smart services, 
+
+including preventive maintenance of video, behavior analysis, facial recognition, video summary, quick search, image 
+
+sharpening, and case investigation analysis
+
+· immensely improved application value of massive data
+· improved prewarning and backtracking capabilities through the smart system and cross-platform collaboration help 
+
+build an all-round smart application platform for a safest city
+
+challenges
+
+solutions
+
+benefits
+
+karamay: building the safest city
+
+· beijing smart government cloud data center is a major 
+demonstration project for cloud computing services under the 
+
+""lucky cloud project"" 
+
+· the data centers in 30 departments and offices form 
+""information silos"" that make it difficult to share information 
+
+and resources; scattered internet egress endangers the system; 
+
+inefficient 70 member maintenance team
+
+· provides a full series of products, including server, storage device, switch, security device, firewall, and cloud platform."
+"city managers have been harnessing 
+
+ai in urban planning, public safety, transportation, 
+
+and energy to help them make scientific decisions 
+
+and create new digital economic models."
+"2018
+
+
+
+measures safety, beauty, convenience, harmony, 
+
+civility, and vitality, with the aim of improving life."
+"applications
+
+platforms
+
+cloud
+
+networks city communication network city iot network
+
+cloud data center
+
+big data service support platform
+
+city dashboard economic operation  energy-consumption index
+
+smart
+ government
+
+smart
+ transportation
+
+operation
+ center
+
+command
+center
+
+decision
+ center
+
+smart 
+campus
+
+smart 
+community
+
+safe 
+city
+
+ict application enabling platform
+
+ioc operation management platform
+
+leading new ict  building a better smart city 3
+
+
+
+intelligent operation center
+
+the intelligent operation center, coupled with high-performance data networks, provides an integrated and 
+
+interconnected city management platform."
+"5 leading new ict  building a better smart city 
+
+
+
+high power consumption:
+one 400w street lamp uses up to 
+1,500 degree electricity per year
+
+short life of light source: damaged 
+street lights affect city’s image and 
+public safety
+
+big investment in a single function: 
+low utilization of public resources
+
+1. iot-based smart utilities: smart street lights
+
+challenges
+
+benefits
+
+intelligent light detection and automatic illumination adjustment saves 80% on lighting bills and 90% • 
+
+costs of operation and maintenance."
+"open lab, mexico
+smart city:•  sct, 
+promad
+
+ami: • adm
+
+johannesburg
+
+bangkok
+cairo
+
+landon
+
+paris
+
+dallas
+
+open lab, singapore  
+smart city:•  ida
+
+railway:•  smrt
+
+open lab, dubai   
+oil & gas:•  saudi aramco 
+
+smart city:•  esri, honeywell
+
+safe city:•  hexagon, yitu, zenith
+
+open lab, munich  
+cloud: • t-systems
+
+smart city:•  hexagon
+
+manufacturing:•  kuka
+
+open lab, suzhou 
+bank:•  cec, icbc, ccb
+
+media:•  sobey
+
+government:•  sic
+
+...• 
+
+moscow
+
+leading new ict  building a better smart city 11
+
+
+
+open cooperation: promoting smart city 
+development with partners 
+
+combining leading technologies with best practices, huawei is committed to promoting the 
+
+development of open smart city platforms and vendor ecosystems, globally and locally."
+"huawei is doing its part to contribute, through its development of what it calls “safe city solutions”—a marketing term                   
+
+for smart city platforms that integrate and analyze the torrent of data generated by this proliferation of automated                  
+
+surveillance technology."
+"the demonstrated efficacy of technological solutions             
+
+like huawei’s may help explain the embrace of its “safe city” platform by officials in hefei and chengdu, two large                    
+
+cities reportedly affected by the recent truckers’ strike (​china-asean expo​, september 2017; ​ccpse​, may 30               
+2016)."
+"for whom the strike was broke 
+
+ 
+
+in the case of the truckers’ strike, huawei’s safe city solutions could help to protect more than just the careers of a                      
+
+few local officials."
+"huawei has several smart city business lines; it describes its “safe city” public safety solutions as one of its                    
+
+most important (​eastday​, october 31 2017)."
+"whether huawei’s safe city technologies are being employed by authoritarian and kleptocratic regimes to reinforce               
+
+their rule is an understudied question."
+"however, it is both interesting and suggestive that the list of countries where                   
+
+huawei’s safe city solutions were first deployed includes a number of authoritarian and hybrid regimes with close ties                  
+
+to china, among them russia, pakistan, venezuela, laos, and angola (​huawei​, 2014)."
+"it recently signed a contract to install safe city                  
+
+solutions in the small city of valenciennes in northern france, as well as the german city of ​gelsenkirchen ​(​xinhua​,                   
+february 10 2017; ​huawei​, sept 7 2017)."
+"so too should the ways in which the prc could use huawei’s ‘safe city’ technology at home, as well as the ways in                       
+
+which such technology could be deployed abroad."
+"because i forwarded a post about a worker strike on may 1 yesterday, the                 
+
+changsha ministry of state security collected all possible information about me within a day, including my address,                 
+
+telephone number, work unit and more."
+"chaozhou is a particular                  
+focus of united front activity directed at overseas chinese, because of the region’s long history as a source of                   
+
+migrant outflows, and their subsequent economic success around the world."
+"chau’s interview claims were remarkable precisely because of his long, well-documented association with provincial              
+
+and city level elements of the united front work department (ufwd)."
+"https://www.independent.co.uk/voices/profile-tung-chee-hwa-chinas-secret-weapon-1354010.html
+
+
+china​brief         volume 18 • issue 11 • june 19, 2018 
+putting up a front 
+
+ 
+
+despite the above, foreigners doing business in china may never encounter the united front aspects of chinese                 
+
+businesses, because they might only ever deal with what they know of as chambers of commerce."
+"given the high population of uyghur citizens in other sco member states, garnering law                  
+
+enforcement cooperation from central asian countries (many of whom might have been sympathetic to the uyghur’s                
+
+plight) was viewed as an important step in safeguarding china’s domestic security by chinese communist party                
+
+(ccp) officials."
+"smart cities harness 
+the power of technology and drive 
+local innovation to create jobs, provide 
+a safe and high quality of life for 
+residents, and attract talent, tourists, 
+and visitors."
+"with current and projected 
+urban populations, these solutions 
+can touch the majority of people in the 
+world making them safe and supporting 
+most of the global economic growth."
+"in traffic and urban mobility, public safety 
+and modern education)."
+"business and residents that operate 
+in the global digital economy want to 
+know what continued future investment 
+cities will be making for progress in 
+these areas while tourists look for a city 
+that is safe and easy to navigate."
+"deliver public security - provide 
+a safe city for people to live in and 
+for tourists to visit, using sensors, 
+video cameras, police body 
+cameras to support community 
+policing and intelligent (even 
+mobile) command centers that 
+discourage and prevent crime, 
+and respond more quickly to 
+emergencies."
+"the internet of things is important in the 
+smart city context because it provides 
+access to new and better information in 
+real time."
+"rapid automation: some information 
+may already be collected by people, 
+but because of resource constraints, 
+it cannot be collected as often or as 
+detailed as needed."
+"device enablement  p lat forms
+
+appl ica t ion  enab lement
+
+cloud comput ing
+
+• activation
+
+• certification
+
+• diagnostics
+
+• enablement
+
+• provisioning
+
+cities have many areas of potential 
+use cases, like remote monitoring 
+or surveillance in public safety, or 
+in transportation, environmental 
+monitoring, or energy monitoring."
+"high performance computing
+
+smart & connected healthcare: 
+the connected healthcare it 
+infrastructure is made possible 
+because of intelligent devices 
+(including smartphones and wireless 
+medical devices) and pervasive 
+broadband networks that provide 
+always on connectivity, along with 
+big data, analytics, and cloud 
+computing."
+"smart education: smart education 
+uses integrated hardware, software, 
+services and sensors to improve 
+all aspects of providing quality 
+education — from managing 
+facilities, student care, and safety 
+to interactive classrooms and digital 
+curricula."
+"it bears noting that command and 
+
+control centers are completely different 
+entities than an ioc, with the latter 
+functioning as data exchange layer for 
+many different elements of a smart city, 
+including the safe city."
+"however, in times of crisis, iocs are 
+force multipliers for command and 
+control situations – critical tools that 
+allow public safety organizations to 
+integrate a plethora of information 
+sources, allowing tri-service 
+organizations to leverage advanced 
+analytics, gis visualization software, 
+sensor-driven data generated by the 
+iot and mobile-driven applications."
+"the safe city 
+
+the assurance of public safety is an 
+historical founding driver of civil society, 
+and, in the view of numerous notable 
+political theorists, the essential reason 
+individuals and societies agreed to 
+create the institution of government."
+"safety is also arguably the primal 
+
+or base motivation for humanity; 
+psychologist abraham maslow calls 
+out access to basic necessities like 
+clean water, shelter, food, and safety as 
+fundamental human needs which must 
+be in place before individuals can pursue 
+loftier goals like self-actualization."
+"today, 
+moving beyond history and theory into 
+very tangible practical realities, the safe 
+city is often an under-acknowledged 
+prerequisite to realizing smart cities."
+"safe cities deliver both social value 
+– in terms of better overall quality of 
+life – and economic value – in terms 
+of industrial development, improved 
+employment rates and revenue 
+generation from sources such as 
+increased tourism."
+"according to 
+a us study from 2015, the top 25 
+safest cities in the us have average 
+unemployment rates of 5.2%, compared 
+to a national average of 6.3%; in 
+contrast, average unemployment in the 
+us's top ten most dangerous cities is 
+28.5% (http://247wallst.com/special-
+report/2015/09/30/the-most-dangerous-
+cities-in-america-5/4/)."
+"similar correlations can be made 
+between safety and the revenue 
+generated by tourism."
+"a 2004 study by 
+glensor and peak stated, for example, 
+that “the most important prerequisite 
+for a successful tourism industry is 
+a reputation for keeping crime under 
+control and guaranteeing tourists’ 
+safety.” (http://www.cops.usdoj.gov/
+mime/open.pdf?item=1306) indeed 
+the stakes are high here as the global 
+tourism industry generates $7.6 trillion 
+dollars a year."
+"safe cities uses ict to predict, prevent, 
+and reduce crime; address new and 
+emerging threats; improve emergency/
+disaster planning and response; reduce 
+the cost of operations; and allocate 
+resources more effectively."
+"safe 
+cities work to create safe and livable 
+communities using a variety of tools 
+such as advanced analytics, social 
+media, collaboration and information 
+sharing tools, and mobile technologies 
+to support emergency response 
+services (fire, police, paramedic, search 
+and rescue, coast guard, etc."
+"), local 
+law enforcement and policing, and 
+the justice and corrections system 
+including local courts, locally operated 
+jails and prisons, probation, community 
+corrections, and parole
+
+in short, smart cities with strong 
+safe city underpinnings are reliant on 
+a suite of technology that includes 
+video surveillance, emergent video 
+communication, integrated incident 
+command and control, big data, mobile, 
+and secured public safety cloud."
+"further to that, 100 huawei’s safe city solutions span 30 coun-
+tries and serve more than 400 million people."
+"huawei: next generation smart city solutions huawei has spent considerable time 
+and effort building out specialized smart 
+city modules on a unified platform for 
+multiple, integrated, interoperable uses 
+that allow cities to address specific 
+pain points related to a plethora of use 
+cases such as traffic, energy, and public 
+safety."
+"huawei smart city 
+ecosystem
+
+
+
+©2016 idc government insights
+©2016 idc government insights
+
+28
+
+29
+
+kenya is an excellent example of the 
+types of smart and safe city solutions, 
+leveraging both the commend center 
+and the iot, being implemented by 
+huawei."
+"these events led 
+the kenyan president, uhuru kenyatta, 
+to declare the implementation of the 
+commend center as one of the country’s 
+highest priorities to improve public 
+safety..
+
+huawei, in partnership with safaricom 
+(kenya’s largest mobile network 
+operator) began working with the 
+kenyan government and police force to 
+implement a next-generation commend 
+center to manage this unrest."
+"the partnership with safaricom sought 
+to accelerate the implementation of a 
+national mobile broadband network 
+upon which the national safety network 
+could be implemented."
+"to date, the 
+commend center consists of the 
+following solutions: 
+
+kenya: implementing the 
+safe city 
+
+huawei's smart city 
+success stories
+
+huawei partner ecosystemfigure 7
+
+
+
+©2016 idc government insights
+©2016 idc government insights
+
+30
+
+31
+
+the solution provides:
+
+a district of shenzhen china, longgang 
+hosts a wide variety of high-tech, 
+transportation and logistics, advanced 
+manufacturing and financial firms."
+"longgang is an excellent example of 
+a smart, safe city leveraging the ioc 
+and iot to deliver value to residents
+
+huawei and partner solutions
+
+in conjunction with its partner 
+ecosystem of leading vendors in the 
+smart cities market, huawei and 
+the city of longgang implemented a 
+comprehensive, end-to-end platform 
+solution leveraging cloud, virtualization, 
+big data analytics, gis and data 
+visualization, and iot."
+"solution platform must keep 
+citizens at the center of city 
+operations
+
+urban safety must be enhanced 
+through next-generation 
+technologies
+
+advanced analytical tools need 
+to deliver real social value and 
+increased livability
+
+leverage the iot, big data 
+analytics, cloud computing, 
+mobile, social and cognitive to 
+collectively catalyze existing 
+industrial productivity
+
+take key insights from the 
+longgang pilot projects and 
+iterate
+
+key challenges needed to be 
+addressed by the solution:
+
+smart longgang threads the device, to 
+the network and its databases, leveraging 
+visualization software, all deployed from a 
+cloud delivery environment."
+"©2016 idc government insights
+©2016 idc government insights
+
+32
+
+33
+
+safe, smart cities that are interested in developing an ioc 
+and move forward with smart city maturity should consid-
+er the following best practices."
+"a number of specific apps 
+have been created to leverage the 
+data, including planning tools for new 
+building development and industrial 
+development, and public safety 
+monitoring."
+"collectively, the smart longgang 
+platform delivers an intelligent ecosystem 
+of city management tools that are 
+providing a safe city environment while at 
+the same time leveraging the intelligent 
+operating center for city administration, 
+and smart sub-vertical solutions such as 
+smart transportation, smart healthcare 
+and smart citizen services."
+"in idc’s case study research, 
+many public safety organizations have stressed 
+that organizations beginning on multiagency 
+data sharing arrangements should pay special 
+attention to governance."
+"municipal 
+
+facility
+
+city lighting
+
+water quality 
+
+and level
+
+atmospheric 
+
+environment
+
+parking lot
+
+u
+rb
+
+a
+n
+
+m
+a
+
+n
+a
+g
+
+e
+m
+
+e
+n
+
+t
+
+s
+c
+
+e
+n
+
+a
+ri
+
+o
+s
+
+s
+o
+
+c
+ia
+
+l
+s
+
+e
+rv
+
+ic
+e
+
+s
+c
+
+e
+n
+
+a
+ri
+
+o
+s
+
+transportation square
+
+hospital
+
+school community
+
+key household
+
+key enterprise construction 
+
+site
+
+metering tools
+
+s
+e
+n
+
+s
+o
+
+rs
+
+unified 
+
+iot
+
+platform
+
+connection 
+management platform
+
+perception and 
+analysis platform
+
+video and image 
+data integration
+
+4g/5g/elte/wi-
+
+fi/microwave
+
+2g/3g/nb-
+
+iot/zigbee
+
+ intelligent roadside parking management
+ intelligent monitoring of tank water 
+
+quality
+ intelligent online monitoring and warning 
+
+of air pollution
+ smart lighting
+ smart waste bin and disposal
+
+ safety monitoring and warning of vehicles 
+
+with hazardous chemicals
+ safety monitoring and warning of transit 
+
+vehicles
+ intelligent identification of vehicles with fake 
+
+plates
+ vehicle track analysis
+ intelligent traffic light linkages
+
+ facial and vehicle recognition at 
+
+community entrances
+ fire sensors at key points
+ video-based behavior analysis in public 
+
+areas
+ environmental monitoring of key points
+ security monitoring of key areas
+
+ adaptive intelligent elevator services
+ security situation warning for the elderly
+ intelligent metering and remote payment
+ behavior analysis in public areas
+ intelligent personal health management
+
+ai
+
+relation map of 
+
+people, objects, 
+
+vehicles, and placesexplo
+
+ration
+
+ocean
+connect
+
+connecting 
+
+everything
+
+sensing everything
+
+analyzing everything
+
+...
+
+object-object 
+
+relationship
+
+object-data 
+
+relationship
+
+person-object 
+
+relationship
+
+vehicle-vehicle 
+
+relationship
+
+person relationship
+
+vehicle-location 
+
+relationship
+
+person-location 
+
+relationship
+
+person-vehicle 
+
+relationship
+
+...
+
+c
+o
+
+ll
+e
+c
+ti
+
+o
+n
+
+ d
+e
+v
+ic
+
+e
+s
+
+s
+e
+
+c
+u
+
+ri
+ty
+
+ a
+n
+
+d
+ 
+
+e
+n
+
+v
+ir
+
+o
+n
+
+m
+e
+
+n
+ta
+
+l 
+
+p
+ro
+
+te
+c
+ti
+
+o
+n
+
+t
+ra
+
+ff
+ic
+
+ 
+m
+
+a
+n
+
+a
+g
+
+e
+m
+
+e
+n
+
+t
+m
+
+u
+n
+
+ic
+ip
+
+a
+l 
+
+a
+d
+
+m
+in
+
+is
+tr
+
+a
+ti
+
+o
+n
+
+c
+o
+
+m
+m
+
+u
+n
+
+it
+y
+
+ 
+s
+
+e
+rv
+
+ic
+e
+
+s
+
+
+
+10
+
+planning: resident care ai platform
+deep learning and correlation analysis are used throughout the service lifecycle to generate personalized 
+resources for residents."
+"low-level demand
+
+vigorous 
+
+teda
+
+civil 
+
+teda
+
+harmonio
+
+us teda
+
+healthy 
+
+teda
+
+responsive public services
+
+enhanced public morality
+
+effective credit system
+
+diverse leisure activities
+
+prosperous innovation industry development
+
+standardized public services
+
+improved environmental health
+
+high-quality, convenient healthcare services
+
+healthy lifestyle promotion
+
+steady development of the healthcare industry
+
+favorable legal environment
+
+equal, high-quality education
+
+innovative social administration
+
+green and convenient transportation
+
+convenient life services
+
+efficient government services
+
+greener public areas
+
+refined urban environment management
+
+consistent architectural style
+
+urban facility upgrade
+
+stable society
+
+orderly traffic management
+
+strict security control
+
+strict food and medicine supervision
+
+convenie
+
+nt teda
+
+beautiful 
+
+teda
+
+safe 
+
+teda
+
+physiological
+water, sleep, and food
+
+safety
+safety and protection
+
+belonging
+love, friendship, and 
+acceptance by others
+
+esteem
+prestige, status, and 
+
+achievement
+
+self-actualization
+self-actualization 
+
+and rich experience
+
+h
+a
+p
+
+p
+y
+ t
+
+e
+d
+
+a
+ i
+n
+
+d
+e
+x 
+
+s
+y
+s
+te
+
+m
+ 1
+
+.0
+
+
+
+13
+
+relying on 
+
+experience
+
+exploration: ai + convenient teda
+
+facility and device 
+management measures
+
+？
+
+？
+
+？
+
+manual 
+discussion
+
+√
+
+√
+
+√
+
+where is the jam?"
+"violation
+
+how to handle
+
+traffic law 
+enforcement 
+personnel
+
+traffic 
+participants
+
+traffic 
+organizers
+
+how to plan
+
+how to 
+optimize
+
+how to 
+prevent
+
+limited 
+
+channels
+
+3
+
+
+
+14
+
+exploration: ai + safe teda
+
+unified video surveillance platform
+
+being deployed
+
+completed completed
+
+completed
+
+being 
+integrated
+
+in pilot 
+phase
+
+being deployed
+
+completed
+
+being deployed
+
+ai
+
+linkage event
+handling
+
+completed
+
+completed
+
+completed
+
+completed
+
+event 
+
+reporting
+
+video 
+
+viewing
+
+level-1 video
+around 3,000 cameras
+
+level-2 and 
+
+level-3 video
+about 2,700 cameras
+
+customized 
+
+video
+community entrance 
+(cuiheng community)
+
+key site entrance (hospital)
+other customized places
+
+video 
+
+integration
+
+video 
+
+analysis
+
+video 
+
+analysis
+
+data 
+
+transfer
+
+video 
+analysis of 
+all vehicles
+
+community 
+access
+video 
+
+analysis
+
+video 
+analysis of 
+key sites
+
+public security
+
+traffic control
+
+emergency
+
+firefighting
+
+water
+
+land
+
+urban 
+management
+
+communica-
+tions
+
+personnel 
+protection
+
+...
+
+public area
+vehicle data
+
+community
+vehicle 
+access 
+information
+
+site access 
+facial data
+
+community
+person 
+access 
+information
+
+vehicle
+
+behavior data
+
+resident
+
+behavior data
+
+monitored people
+
+behavior data + 
+
+alarms
+
+safety big data
+
+d
+a
+ta
+
+ c
+o
+
+llis
+io
+
+n
+
+a
+le
+
+rt d
+e
+p
+
+lo
+y
+m
+
+e
+n
+
+t
+
+segment-based 
+
+management + platform
+
+population database
+
+key population 
+database
+
+event 
+database
+
+comprehensive 
+management + big data 
+
+command center
+
+city “brain” ioc
+
+internet population
+big data
+
+video big data
+
+other customized 
+analysis
+
+ profile of all vehicles in 
+
+teda
+ vehicle behavior track
+
+ crowd features
+ large amount of face data
+
+ vehicle data of a certain 
+
+location
+ crowd features
+ small amount of face data
+
+
+
+15
+
+vision: in-depth understanding of user demands
+
+ai@smart
+
+teda
+
+a
+i
+
+s
+m
+
+a
+rt
+
+ a
+p
+
+p
+li
+
+c
+a
+ti
+
+o
+n
+
+h
+a
+p
+
+p
+in
+
+e
+s
+
+s
+ i
+
+n
+d
+
+e
+x
+
+prosperous, livable, 
+
+and smart
+
+the smart city 
+
+arises a new round 
+
+of city completion 
+
+and attracts 
+
+investment."
+"https://view.ceros.com/mckinsey/smart-cities-ex2-v1-online-1-1/p/1
+https://view.ceros.com/mckinsey/smart-cities-ex2-v1-online-1-1/p/1
+
+
+1. welcome the new 
+
+digital world
+
+
+
+hyperlinked
+
+immersive
+
+decentralized
+
+machine readable
+
+real time
+
+all devices
+
+
+
+disruptive  
+
+technologies
+
+means to 
+
+solve problems
+
+5g | iot | ai | blockchain | cloud | edge
+
+
+
+mobility safety
+
+
+
+planning 
+
+& building
+health
+
+
+
+“data is the new oil”
+
+from big data 
+
+to fast data
+
+make sense 
+
+of data
+
+build trust on data
+
+data ethics
+
+
+
+2. commit to 
+
+sustainability
+
+
+
+consume 2/3 world’s 
+
+energy 
+
+cities…
+
+generate +70% of 
+
+co2 emissions
+
+dispose 6.3bn 
+
+metric tons of 
+
+plastic as waste
+
+
+
+“buildings = 70% of energy consumption in major cities”
+
+“there will be more plastic in the oceans than fish
+
+by 2050 if nothing is done”
+
+“residents of just 100 cities account for 20% of 
+
+humanity’s overall carbon footprint”
+
+
+
+re-naturalize cities: 
+
+green public space
+
+move to a circular 
+
+economy
+
+bet on renewables, 
+
+cleantech & smart 
+
+building
+
+
+
+3. change mobility 
+
+patterns
+
+
+
+transport…
+
+increase 
+
+pollution
+
+is car-centric
+
+cause 
+
+congestion
+
+
+
+“93% of the world’s children breathe toxic air every day”
+
+“in los angeles, land dedicated to parking is larger
+
+than manhattan”
+
+“the average commuter in los angeles spends over 
+
+100 hours a year in traffic jams”
+
+
+
+go from owned 
+
+to shared
+
+maas & end of private vehicle
+
+switch to ev
+
++ ultra low emission zones
+
+invest in public 
+
+transport & 
+
+micro-mobility
+last mile
+
+
+
+4. open decision-
+
+making processes
+
+
+
+from top-down to 
+
+bottom-up
+
+massive collaboration
+
+public-private-people 
+
+partnerships
+
+
+
+pppp
+
+corps govs people
+
+agile
+
+innovative
+
+holistic
+
+open 
+
+collaborative
+
+transparent
+
+engaged
+
+empowered
+
+commited
+
+co-creation
+
+
+
+5. put people always 
+
+at the core
+
+
+
+citizen-centric
+smart 
+
+city
+=
+
+data-driven
+
+people-powered
+
+
+
+inclusive
+smart 
+
+city
+=
+
+cities for all
+
+brigde the divide
+
+education
+
+
+
+livable
+smart 
+
+city
+=
+
+well-being
+
+right to the city
+
+
+
+intelligent
+
+iq
+
+target, survey, monitor, map
+
+
+
+human
+
+element
+
+smart
+understand, imagine, decide, care
+
+
+
+
+
+more than an event
+
+global platform connecting the 
+
+whole ecosystem
+
+biggest meeting point of 
+
+city & corporate leaders
+
+solutions for real, 
+
+concrete problems
+
+
+
+set an example
+
+sustainability
+
+inclusivity
+
+open knowledge
+
+empowerment
+
+
+
+change the world
+
+more than gadgets
+
+the smart revolution is on
+
+worldwide collaboration 
+
+
+
+19-21 november 2019
+
+barcelona
+
+ugo valenti
+
+ceo, smart city expo world congress
+
+uvalenti@firabarcelona.com
+
+cities made 
+
+of dreamsrealizing your smart cities vision with 
+hexagon’s autonomous connected ecosystem
+
+hexagon
+juergen nerz, senior vice president
+october 10, 2018
+
+huawei.com
+huawei.com
+
+huawei.com
+
+security level:
+security level:
+
+juergen nerz
+
+senior vice president, 
+hexagon
+
+huawei.com
+
+huawei.com
+
+security level:
+
+the
+
+shift
+
+huawei.com
+
+huawei.com
+
+it’s about
+
+huawei.com
+
+“the changing  nature of products is disrupting 
+value chains, forcing companies  to rethink and 
+retool nearly everything they do internally.”
+
+– professor michael porter / jim heppelmann
+harvard business review, november 2014
+
+source: adapted  from harvard  business review,  “how  smart, connected  products are  transforming  competition,”  by michael  e. porter and james e. heppelmann,  november  2014
+
+huawei.com
+
+huawei.com
+
+huawei.com
+
+huawei.com
+
+huawei.com
+
+huawei.com
+
+xalt technologies
+
+applied capabilities
+
+ai
+
+laser
+
+mathematical modeling
+
+industrial design
+
+utility operations
+
+data science
+
+reality computing
+
+ar
+
+innovation hub
+
+video analytics
+
+optics
+
+imaging
+
+deep learning
+
+multi-physics
+
+positioning
+
+computer-aided engineering
+
+cad / cam
+
+city dashboards
+
+divisions
+
+cip security
+
+5d maps
+
+dispatch
+
+digital city
+
+reality capture
+
+public safety analytics
+
+disaster management
+
+quality assurance
+
+ace
+
+smart farms & mines
+
+smart construction 
+
+sites & plants
+
+smart factories
+
+smart cities
+
+smart 
+
+autonomous fleets
+
+huawei.com
+
+transportation
+safety 
+manufacturing
+agriculture
+construction
+
+complex, 
+
+real-world
+
+problems
+
+automotive
+aerospace
+resources | cities
+emergency
+energy
+
+sensors
+
+workflows
+
+real
+world
+
+convergence
+domains | organisations
+
+digital 
+world
+
+digital realities
+
+virtual reality | iot
+in-memory computing
+big data sensor fusion 
+augmented reality
+streaming
+
+complex,
+enabling
+
+technologies
+
+cloud | mixed reality
+deep learning 
+wearables
+edge computing
+virtualization
+miniaturization
+
+huawei.com
+
+huawei.com
+
+thank you."
+"smart city expo world congress
+
+2016 and 2017
+
+yanbu, shenzhen, weifang, dunhuang, cameroon, first affiliated hospital of 
+
+zhengzhou university, and kenya
+
+
+
+1111
+
+smart city: transforming yanbu (saudi arabia) into a city of 
+smart industry
+
+solutions: cloud data center, iot, big data platform
+
+features
+
+� city infrastructure: broadband, cloud computing
+
+� municipal applications: public safety, smart public services, 
+
+environmental protection
+
+� city management platforms
+
+strengths
+
+� capacity to deliver whole-system architecture: 4-step service 
+
+development plan
+
+� huawei + partners: ict infrastructure + application ecosystem
+
+customer value
+
+business investment
+
+16% 30%
+municipal lighting costsroad maintenance costs
+
+20%
+
+enterprise business
+
+
+
+1212
+
+key success factors for smart city construction
+
+industry-leading 
+digital partners
+
+technology, 
+
+platform, ecosystem, 
+
+and experience
+
+top-leadership 
+projects
+
+breaking data silos
+
+and restructuring 
+
+processes
+
+strong 
+execution teams
+
+high-level planning, 
+
+coordinated 
+
+construction, and 
+
+iterative evolution
+
+solid 
+investments
+
+sufficient investments
+
+with reasonable roi
+
+
+
+1313
+
+big data service support platform ict application enablement platform
+
+city management platform
+
+ioc
+
+rhine cloud data center
+
+city iotcity communications networknetwork
+
+cloud
+
+apps
+
+platform
+
+suggested high level design for duisburg smart city
+j
+
+o
+in
+
+t in
+n
+
+o
+v
+a
+
+tio
+n
+
+ c
+e
+
+n
+te
+
+r
+
+smart
+
+partners
+
+
+
+1414
+
+huawei contact
+
+frank willi gerlof 
+diplom betriebswirt
+
+senior director smart city project
+
+huawei technologies deutschland gmbh 
+
+mobile: +49 (0) 1704 478 410
+email: frank.willi.gerlof@huawei.com
+
+
+
+1515
+
+copyright © 2018 huawei technologies co., ltd. all rights reserved."
+"thank youthank youpowerpoint presentation
+
+
+oleg logvinov
+
+chairman, ieee p2413 working group
+
+ai, the engine powering 
+development of smart 
+cities 
+
+
+
+2
+
+smart
+
+people
+
+smart
+
+economy
+
+smart
+
+mobility
+
+smart
+
+environment
+
+smart
+
+living
+
+smart
+
+governance
+
+smart city as a unique multi-domain environment
+
+
+
+3
+
+vivid service green living safe city efficient manufacturing  
+
+smart city applications and requirements
+
+connected city, better life
+
+artificial intelligence
+
+security&protection smart factorysharing economye-mobility
+
+
+
+4
+
+ai generated business insights drive 
+new business models and economic 
+growth
+
+ai makes cities smarter
+
+ai learns patterns
+
+ai optimizes infrastructure
+
+ai improves public safety
+
+
+
+5
+
+pb, structured, arpu, demographic information, 
+
+user consumption habits, order information, group, 
+
+user preference, terminal information
+
+100tb－pb lists/signal data
+
+100tb-pb statistical data 
+
+100tb-pb performance data 
+
+tb alarm data 
+
+tb fault data
+
+gb work orders data
+
+gb resource data
+…tb internet data
+
+pb, structured, network access signaling  
+
+base station, map, regional access numbers 
+
+regional population flow trajectory
+…
+
+user data
+
+network data
+
+business data
+
+location data
+
+volume
+
+variety
+
+velocity
+
+veracity
+
+variability
+
+complexity
+
+tb assets information tb finance information
+
+tb hr information tb project information
+
+tb purchase information tb inventory information
+
+data explosion in big data era
+
+
+
+6
+
+artificial intelligence
+
+machine learning
+
+deep 
+learning big data
+
+blockchai
+n
+
+iot
+
+autonomous drive
+
+facial recognition
+
+speech recognition
+
+classification
+
+diagnosis
+
+what is ai and what can ai do ?"
+"play chess
+
+
+
+7
+
+city operations center
+
+internet of things
+
+＋
+
+cloud data center
+
+＋
+
+communications network
+
+central nervous system – ai ‘brain’
+
+‘peripheral nervous system’
+
+data
+
+information
+
+knowledge
+
+wisdom
+
+dikw 
+pyramid
+
+building smart city “nervous system”
+
+
+
+8
+
+bicycle thermodynamic chart
+
+vehicle thermodynamic chart
+
+bicycle storage planning
+
+parking lot planning
+
+ai for city planning
+
+
+
+9
+
+practical
+
+applications
+
+general video 
+
+management
+
+video
+
+investigation
+
+video
+
+command
+
+case-associated
+
+video management
+
+releasing for
+
+public benefit
+
+video analysis
+
+algorithm warehouse
+
+ai machine learning
+
+f
+a
+c
+ia
+
+l re
+c
+o
+g
+n
+itio
+
+n
+
+c
+h
+e
+c
+k
+
+p
+o
+in
+
+t re
+c
+o
+g
+n
+itio
+
+n
+
+c
+ro
+
+w
+d
+ a
+
+n
+a
+ly
+
+s
+is
+
+m
+a
+c
+h
+in
+
+e
+ le
+
+a
+rn
+
+in
+g
+
+v
+e
+h
+ic
+
+le
+ a
+
+n
+a
+ly
+
+s
+is
+
+f
+a
+c
+e
+ tra
+
+c
+k
+
+t
+ra
+
+n
+s
+p
+o
+rta
+
+tio
+n
+ a
+
+n
+d
+
+a
+c
+c
+o
+m
+
+m
+o
+d
+a
+tio
+
+n
+ 
+
+a
+n
+a
+ly
+
+s
+is
+
+ai video cloud analysis for safe city
+
+
+
+10
+
+cooperated drive
+
+real-time information 
+sharing
+
+platooning
+
+autonomous or 
+remote drive 
+
+edge
+
+cloud
+
+3 phases for  autonomous drive
+
+single 
+vehicle
+
+cooperated 
+vehicles
+
+cloud 
+connected  
+vehicles
+
+ai in vehicles
+
+ai in cloud
+
+ai in network
+
+ai + smart traffic  
+
+
+
+11
+
+bidirectional power 
+transfer
+
+smart parking as a grid 
+resource
+
+renewable sources
+
+new business models
+
+power and transportation 
+domains working together
+
+ai + transportation electrification 
+
+
+
+12
+
+ioc (intelligent operation center)
+
+video iot gisicpbig data
+
+ict infrastructure： cloud data center
+
+transportation network
+
+terminal devices: full sensing, pre-processing, front-end intelligence
+
+application enabler ai enabler data enabler
+
+city governance livelihood service industry development
+
+multi-function, eco-system, industry enabler
+
+top-level 
+
+design
+
+service 
+
+flow design
+
+data flow 
+
+design
+ict 
+
+planning 
+
+consultatio
+
+n
+
+ict detail 
+
+design
+
+digital 
+
+enablement
+
+platform
+
+ict
+
+infrastruct
+
+ure
+
+ai based digital transformation architecture
+
+smart city applications
+
+
+
+13
+
+ieee p2413.1  standard for a reference architecture for smart city 
+
+q1 p2413 working group agreed
+
+q2 ieee-sa cag, nescom, sasb approval
+
+q3 started off standardization work
+
+huawei initiated the ieee p2413.1 new standard project for smart city architecture：
+
+march
+
+canada meeting
+
+huaweiproject proposal apr
+
+ieee-sa cag 
+shenzhen meeting
+
+sponsor approval june
+
+nescom
+ieee-sasb
+
+project official
+approved
+
+sep
+
+teleco
+
+sponsor approval
+
+vienna meeting
+xiong’an + huawei 
+contribution starts the 
+standard 
+
+oct
+
+dec
+
+jan
+
+may
+china meeting
+
+smart city applications 
+and requirements
+
+north america 
+meeting
+
+smart city architecture
+design
+
+2019
+
+ieee p2413.1 standard for smart city architecture 
+
+
+
+14
+
+based on the ieee 2413.1 standard,  refine specific industry architectures 
+in relevant sdos
+gather industry partners and build our ecosystem leveraging specific 
+standards and sdos
+
+industry digital 
+transformation architecture 
+standard
+
+iata
+
+xyz sdo
+
+onvif
+
+xx sdo
+
+xx sdo
+
+specific industry 
+ecosystem organizations
+
+iec tc79
+
+collaboration with industry leading organizations
+
+p2413.1
+
+“rasc”
+
+iic
+
+iec/syc
+smart cities
+
+smc std
+
+jtc1 wg11 
+smart cities
+
+ieee 802.24iec sg8
+
+ecc
+
+opc 
+foundation
+
+ivi
+
+existing
+
+pending
+
+smart city 
+digital transformation 
+
+architecture
+
+smart campus digital 
+transformation 
+
+architecture
+
+public safety digital 
+transformation 
+
+architecture
+
+smart xyz digital 
+transformation 
+
+architecture
+
+smart airport digital 
+transformation 
+
+architecture
+
+smart city council
+
+iic
+
+ieee-sa ic
+
+industry ecosystem strategy and standards
+
+
+
+thank you !powerpoint presentation
+
+
+huawei.com security level:
+
+ioc + big data, building 
+
+a smart city digital brain
+smart city solution dept
+
+pei yong
+
+2018-10-10
+
+
+
+目录
+contents
+
+2 huawei confidential
+
+objectives and positioning of ioc1
+
+ioc + big data, building a smart city digital brain2
+
+ioc application scenarios and cases3
+
+
+
+smart city construction ushers in a new growth period
+
+the 19th national congresses put forward the 
+
+construction of a smart society."
+"decision-
+
+making center
+
+warning 
+
+center
+
+command 
+
+center
+
+governance 
+
+center
+
+objectives and positioning of huawei smart city ioc solution
+
+city
+
+ioc
+
+
+
+event escalation
+
+process visualization
+
+data visualization
+warning 
+
+visualization
+
+command 
+
+visualization
+
+warning
+
+s
+o
+
+lu
+ti
+
+o
+n
+
+m
+a
+
+jo
+r 
+
+is
+s
+
+u
+e
+
+ioc service architecture
+
+decision-making 
+
+support
+
+(cause analysis)
+
+monitoring and 
+
+warning
+
+(automatic discovery)
+
+event management
+
+(settlement of normal 
+
+issues)
+
+emergency command
+
+(settlement of 
+
+emergencies)
+
+dashboard (situation 
+
+presentation)
+
+23
+
+4 5
+
+1
+
+
+
+ioc provides personalized views for 
+managers at different levels
+
+public 
+
+safety
+
+economic 
+
+operations
+
+civil 
+
+services
+
+major 
+
+projects
+
+...
+poverty 
+
+alleviation
+
+service perspective
+
+execution level
+
+operation command personnel
+
+management level
+
+government office 
+
+leaders
+
+decision-
+
+making 
+
+level
+
+leaders
+
+macrofocus:panoramic view, macro 
+data, trend prediction, and warning
+
+focus: partial view, meso data, 
+
+trend prediction, warning, and 
+
+event monitoring
+
+focus: personal view, micro data, 
+
+trend prediction, problem 
+
+handling, and event distribution
+
+meso
+
+micro
+
+management perspective
+
+industry 
+
+development
+transportation
+
+living 
+
+environment
+
+government 
+
+affairs 
+construction
+
+
+
+目录
+contents
+
+7 huawei confidential
+
+objectives and positioning of ioc1
+
+ioc + big data, building a smart city digital brain2
+
+ioc application scenarios and cases3
+
+
+
+ioc provides integrated urban services based on big 
+
+data and ai
+
+data sharing
+
+data integration
+
+big data
+
+government 
+
+affairs
+
+tourism
+
+population
+
+legal person
+
+event
+
+geographic 
+
+information
+
+...
+
+behavior track
+
+event collision
+
+video analysis
+
+image analysis
+
+ai applications
+
+...
+
+big data + ai
+
+label 
+
+profile
+
+speech analysis
+
+platform sharing
+
+service 
+
+integration
+
+city big data analysis
+
+decision-making 
+
+support
+
+normal intelligent 
+
+services
+
+city event 
+
+management
+
+performance appraisal
+
+emergency 
+
+intelligent services
+
+city monitoring 
+
+and warning
+
+prevention
+
+city emergency 
+
+response
+
+linked command
+
+and dispatch
+
+city dashboard for situation overview and awareness
+
+
+
+situation 
+
+awareness
+
+decision 
+
+analysis
+
+monitoring 
+
+and warning
+
+event 
+
+management
+
+emergency 
+
+command
+
+ioc
+
+operation 
+
+indicator ai
+
+label 
+
+profile ai
+
+event 
+
+collision ai
+
+video 
+
+analysis ai
+
+image 
+
+analysis ai
+
+speech 
+
+analysis ai
+
+data 
+
+integration
+
+data 
+
+governance
+
+data 
+
+analysis
+
+data 
+
+mining
+
+data 
+
+security
+
+data 
+
+openness
+
+application enablement platform
+
+data enablement platform
+
+government 
+
+data
+
+enterprise 
+
+data
+
+resident 
+
+data
+internet 
+
+data
+iot data
+
+huawei smart city 
+
+digital platform
+
+huawei smart city digital platform provides data and model 
+
+support for ioc
+
+
+
+目录
+contents
+
+10 huawei confidential
+
+objectives and positioning of ioc1
+
+ioc + big data, building a smart city digital brain2
+
+ioc application scenarios and cases3
+
+
+
+monitors and visualizes major operation indicators in real time."
+" builds a special library of economy, public safety, regional 
+
+governance, happiness index, human settlement, party and 
+government justice, and new district overview."
+" analyzes eight topics: economic innovation, strategic and emerging 
+industries, public safety, district governance, livelihood happiness, 
+human settlement, party and government justice, and new district 
+overview."
+"platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+authentication platform
+
+
+
+
+
+
+
+
+
+ wireless transmission and energy infrastructure technologies are combined for lamp pole access in various difficult cabling scenarios
+ all-optical and high-performance backhaul networks meet future lamp pole industry requirements for capacity expansion
+ unified management of electrical and network devices, and massive o&m reduce o&m costs
+seaside and river beach
+enterprise campus
+city block
+fiber
+
+
+
+
+
+
+
+
+
+
+
+3g
+
+
+ar532
+eg8084p
+
+
+ar550c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rtn510
+optical fiber + wireless backhaul network result in widespread, all-scenario coverage of urban iot 
+
+
+
+‹#›
+
+15
+
+
+
+built-in 5g micro base station
+
+
+
+
+
+
+
+
+
+
+
+
+overall fusion design is beautiful and ergonomic
+full consideration of wiring, electromagnetic compatibility, and heat dissipation
+multiple ways to guarantee the power supply of the micro base station
+reserved fiber accommodates 5g high-performance transmission
+1
+2
+3
+4
+smart pole supports built-in 5g micro base station to promote rapid development of 5g industry
+
+switched 2 and 3 for consistency with slide 17 
+
+
+
+‹#›
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+3
+2
+4
+strong current and weak current are compartmentalized to reduce weak-current
+safety risks to maintenance personnel
+plc lamp controllers are maintained at the bottom of the lamp poles, without the need to work at risky heights, which is more convenient, safe, and secure
+the port of the weak-current compartment is reserved for expansion, and new business rollout of the lamp pole is faster
+remote maintenance requires fewer maintenance personnel and lower maintenance costs
+
+
+
+onu
+
+plc lamp control
+ar550c
+
+smart distribution box and intelligent power distribution ensure personal safety and more-convenient maintenance
+
+
+
+weak-current compartment
+strong-current compartment
+
+
+
+
+
+
+‹#›
+
+automatic deployment and centralized o&m of ict devices such as networks, storage devices, and servers reduce manpower requirements and shorten fault time
+
+unified management and efficient planning of various smart iot services and city information
+enable comprehensive monitoring
+
+intelligent analysis and proper planning of network and storage resources shorten the business rollout time from months to hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+air pressure
+temperature
+humidity
+pollution
+
+
+
+screen
+broadcast 
+intercom 
+
+
+
+
+
+trash bin
+garbage truck
+sanitation worker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-eem-
+integrated network, security, and storage management
+integrated management of smart iot services
+
+
+
+
+automatic deployment of devices on entire network for unified and visualized remote management, reducing o&m costs
+
+
+
+‹#›
+
+18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+agile iot gateway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iot interface
+generate, distribute, and manage certificates at the sensor level
+built-in hardware encryption engine, providing multiple security mechanisms at the mac layer and transport layer
+vpn technologies, such as l2tp/gre/ipsec, ensure data security on the backhaul network
+
+network
+network mgmt."
+"a
+
+
+
+
+
+
+
+pp
+end-to-end security solution, ensuring iot data security
+sensor control layer
+network layer
+platform layer
+the led screen and alarm system are connected based on the pki certificate
+
+
+
+‹#›
+
+19
+
+
+
+we are doing...
+3
+how
+
+
+
+‹#›
+
+
+
+
+solution
+customer benefits
+ introduce smart pole and deploy smart streetlight solution
+ install cameras, panic buttons, and air-quality monitoring on the lamp pole
+ install a smart screen on each lamp pole to play ongoing publicity videos of yanbu
+ public lighting costs are reduced by 50% and lighting maintenance costs are reduced by 90%
+ comprehensive 24/7 video surveillance greatly reduces safety risks
+ real-time display of air quality and publicity videos highlight the achievements of smart city construction
+ in a later stage, the smart screen operation can be used to increase revenue
+
+ the costs of public lighting and maintenance are high, and faults cannot be handled on time."
+"safety risks exist in seaside areas, parks, and other locations."
+panic button provides instant emergency calling for a safe and secure park.
+"saves on secondary energy usage and reduces costs
+ provides intelligent inspection of park assets and timely repairs with quick and efficient maintenance 
+ standardizes social safety by detecting and preventing social safety issues in advance
+ improves the image of the park and the led screen promotes the park’s culture
+
+ guided by the 13th five-year development plan of smart haidian, beijing haidian district considers smart park an important part of smart city construction."
+"基本 rgb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+基本 rgb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+基本 rgb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+基本 rgb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/docprops/thumbnail.jpegleading new ict
+building a better smart city
+
+
+
+leading new ict  building a better smart city 1
+
+sustainable development models are urgently required to 
+resolve the increasing challenges of urbanization
+
+public 
+safety
+
+resource 
+imbalance
+
+traffic 
+congestion
+
+environmental 
+pollution
+
+energy 
+shortage
+
+global urbanization is accelerating."
+"urban development, security and sustainability
+
+social development, communities and citizens
+
+ ic
+t infrastructure
+
+safe city
+(emergency, 
+disaster, 
+security)
+
+smart 
+community
+(security, 
+convenience)
+
+connection 
+service platform
+
+computing service platform
+
+smart utilities
+(grid, water, gas)
+
+smart 
+healthcare
+(telemedicine, 
+hospital)
+
+smart
+transportation
+(bus, metro, 
+traffic flow)
+
+smart 
+education
+(distance 
+education, school)
+
+smart 
+environment
+(air, water, 
+waste)
+
+mice, 
+hospitality and 
+entertainment 
+(stadiums, tourism) 
+
+data service 
+platform
+
+
+
+leading new ict  building a better smart city 3
+
+orchestrating a new ecosystem to build 
+smart cities
+
+a smart city solution is a comprehensive system that involves top-level design, integration, operations, service applications, and new 
+
+ict infrastructure; therefore, enterprises in the industry chain must cooperate with each other and maximize their own advantages to 
+
+develop evolving smart city solutions tailored to customer needs."
+"openness
+
+big data
+
+sdn
+
+developers
+
+standards
+
+flexibility
+
+cloud 
+
+mobility
+
+iot
+
+partners
+
+elasticity
+
+security
+
+technology
+
+platform
+
+ecosystem
+
+
+
+leading new ict  building a better smart city 6
+
+leading technologies and open platforms
+
+industry’s most extensive product and solution portfolios
+
+public safety e-government
+
+cc
+
+xdc network
+
+data center
+
+dc ip transmission wireless iot
+
+server storage cloud os
+
+mobility
+data leak
+prevention
+
+compliance
+security
+mgmt
+
+uc vc/tp ivs vdi
+
+energy transportation education campushealthcare community
+
+ucc
+
+esdk
+
+open platform
+
+information
+security
+
+cloud dc
+
+network
+
+efficient
+
+secure
+
+reliable
+
+agile
+
+
+
+leading new ict  building a better smart city 7
+
+huawei can provide a wide assortment of ict products and solutions, including iot communications modules and operating systems, 
+
+wired and wireless access, agile networks, cloud-based distributed data centers, and big data platforms."
+"meanwhile, huawei teams with partners to develop state-of-the-art 
+
+solutions in a variety of industries, including government, public safety, energy, transportation, education, healthcare, and on campus."
+"background
+
+increased tourist traffic in peak seasons threatened cultural relic protection and tourist safety."
+"smart education, smart transportation, safe city, and wireless city have been developed."
+"schools etc
+
+residential 
+broadband
+
+outdoor “on-
+street” broadband
+
+crowdsourcing 
+concepts and 
+applications 
+development  
+for emm
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+residential
+
+education
+home and business
+
+cpe-ap residential
+
+emm empowering citizens through digital inclusion
+
+
+
+21 leading new ict  building a better smart city 
+
+nairobi implements safe city to protect the 
+freedom and safety of kenya
+
+kenya, known as the “cradle of mankind”, is famous for its vast, picturesque landscapes and extraordinary animal life."
+"background
+
+unfortunately, the beauty and vitality of kenya are compromised by threats such as criminal incidents and terrorist attacks, as well as 
+
+routine public safety matters."
+"the number of international visitors decreased by 11.1%, while tourism revenues decreased by 7.3% in 2014.  
+
+challenges
+
+
+
+22leading new ict  building a better smart city 
+
+safe city solutions requiring innovative ict for security management are part of kenya’s national strategy."
+"solutions
+
+safe city solution with visual communications
+
+welcome to kenya nps operations centernms
+
+facility 
+management
+
+security 
+management
+
+network 
+management
+
+platform 
+management
+
+it service
+management
+
+city surveillance infrastructure (hd cctv and anpr)
+
+trunking infrastructure
+
+unified communication and video conferencing infrastructure
+
+gis/avls
+services
+
+cad
+services
+
+anpr
+services
+
+hd cctv
+services
+
+uc/vc
+services
+
+the safe city solution has drastically improved safety conditions in the country to actively protect lives and property."
+safer environment boosts investment and employment and supports sustainable development of the society.
+safer travels: realizes nearly 40% reduction in the number of traffic accidents.
+"network credibility monitoring management
+
+article 24 of the cybersecurity law: 
+
+the state shall implement the strategy 
+
+of credible identity in cyberspace, 
+
+support the research and development 
+
+of safe and convenient technologies 
+
+for electronic identity authentication, 
+
+and promote mutual recognition 
+
+among different electronic identity 
+
+authentication technologies."
+"industry organizations provincial industry organizations
+
+• china strategic alliance of smart city 
+
+industrial technology innovation (vice chair)
+
+• smart city development alliance (director)
+
+• enterprise joint team of china smarter city 
+
+development research center (deputy 
+
+leader)
+
+• digital urban administration group of chinese 
+
+society for urban studies (deputy leader)
+
+• china association of building energy 
+
+efficiency (executive director)
+
+• energy efficiency group of chinese society 
+
+for urban studies (deputy leader)
+
+• iot group of chinese society for urban 
+
+studies (deputy leader)
+
+• urban road lighting committee of china 
+
+municipal engineering association 
+
+(director)
+
+• china association for geographical 
+
+information society (director)
+
+• shandong strategic alliance of smart city 
+
+industrial technology innovation (chair)
+
+• shandong smart city industry alliance (vice 
+
+chair)
+
+
+
+huawei confidential25
+
+introduction to telchina smart industry group co., ltd.
+
+beijing future science park/mentougou; xi’an-xianyang culture and sports 
+
+functional areas; laoshan/mingcun town, pingdu/sino-german ecopark, 
+
+qingdao, shandong; changle/xiashan, weifang, shandong; laiwu, 
+
+shandong; datong, shanxi; yingtan/guixi/dexing, jiangxi; puyang, henan; 
+
+xiji, ningxia; neiqiu, hebei...
+
+ji’nan/qingdao/rizhao/laiwu, shandong; 
+
+datong, shanxi; nanning, guangxi; changde, 
+
+hu’nan; yingtan, jiangxi...
+
+top-level design new smart city evaluation
+
+
+
+huawei confidential26
+
+introduction to telchina smart industry group co., ltd.
+
+urban 
+
+infrastructure
+
+• municipal facility
+
+• underground 
+
+space
+
+• water 
+
+ecosystem
+
+• public lighting
+
+comprehensive 
+
+city governance
+urban public safety
+
+smart 
+
+transportation
+
+• smart policing
+
+• video and image
+
+cloud big data
+
+• metro-area 
+
+transportation
+
+• smart parking
+
+• grid + city 
+
+management
+
+• one map + 
+
+industry support
+
+
+
+huawei confidential27
+
+openness, sharing, and win-win: building new smart cities
+
+cooperation ecosystem for sharing and win-win
+
+the industry chain exerts joint efforts to 
+
+promote the construction of new smart cities."

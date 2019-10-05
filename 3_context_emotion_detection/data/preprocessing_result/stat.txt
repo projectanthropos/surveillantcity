@@ -1,0 +1,18 @@
+Total number records in train set: 30160
+Total number angry records in train set: 5506
+Total number happy records in train set: 4243
+Total number sad records in train set: 5463
+Total number other records in train set: 14948
+
+Total number records in dev set: 2755
+Total number angry records in dev set: 150
+Total number happy records in dev set: 142
+Total number sad records in dev set: 125
+Total number other records in dev set: 2338
+
+Total number records in test set: 5509
+Total number angry records in test set: 298
+Total number happy records in test set: 284
+Total number sad records in test set: 250
+Total number other records in test set: 4677
+
