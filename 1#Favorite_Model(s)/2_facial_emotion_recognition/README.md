@@ -1,5 +1,8 @@
 **Implementation/Documentation/review by Taihui Li, research work under the supervision of Vahan M. Misakyan**
 
+&nbsp;
+&nbsp;
+
 # Facial Emotion Recognition (FER)
 
 This FER code follows the idea (network structure) proposed in the paper [DeXpression: Deep Convolutional Neural Network for Expression Recognition](https://arxiv.org/abs/1509.05371). The detailed network structure is presented in Figure 4, Section 5. 
