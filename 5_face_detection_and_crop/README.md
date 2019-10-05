@@ -1,3 +1,8 @@
+**Implementation/Documentation/review by Taihui Li, research work under the supervision of Vahan M. Misakyan**
+
+&nbsp;
+&nbsp;
+
 # Face Detection and Crop (FDC)
 
 This repo provides the API for face detection and face crop in either images or videos. The underlying technique being used in the API is [Viola-Jones algorithm](https://wiki2.org/en/Viola%E2%80%93Jones_object_detection_framework).
