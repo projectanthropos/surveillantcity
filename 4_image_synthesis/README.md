@@ -1,3 +1,8 @@
+**Implementation/Documentation/review by Taihui Li, research work under the supervision of Vahan M. Misakyan**
+
+&nbsp;
+&nbsp;
+
 # Image Synthesis
 
 * For web scraping, please visit [4_1_web_scrape_images](https://github.com/taihui/RA_Summer2019/tree/master/4_image_synthesis/4_1_web_scrape_images).
