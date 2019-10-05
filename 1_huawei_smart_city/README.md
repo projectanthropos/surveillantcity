@@ -1,6 +1,7 @@
-### Documentation/review by Taihui Li, research work under the supervision of Vahan M. Misakyan
+documentation/review by Taihui Li, research work under the supervision of Vahan M. Misakyan
 
-
+&nbsp;
+&nbsp;
 
 # Huawei Smart Cities
 
