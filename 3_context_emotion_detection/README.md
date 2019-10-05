@@ -1,3 +1,8 @@
+**Implementation/Documentation/review by Taihui Li, research work under the supervision of Vahan M. Misakyan**
+
+&nbsp;
+&nbsp;
+
 # Emotion Detection from Context (EDC)
 
 The EDC code mainly follows the ideas from the methods/papers in [SEMEVAL 2019 Task-3](https://www.humanizing-ai.com/emocontext.html).
