@@ -6,7 +6,7 @@
 
 # Person Re-Identification Implementation
 
-This repo works as a practice example/demo to Person Re-Identification (ReID). The code credits to this great [tutorial](https://github.com/layumi/Person_reID_baseline_pytorch) (some modifications have been made when do the test).
+This repo works as a practice example/demo to Person Re-Identification (ReID). The code credits to this great [tutorial](https://github.com/layumi/Person_reID_baseline_pytorch) (some modifications have been made).
 
 
 
