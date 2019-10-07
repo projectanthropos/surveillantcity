@@ -1,5 +1,6 @@
 # © Surveillant City Lab 2018-19
 
-**visit surveillantcity.org for more**
+**for more visit [surveillantcity.org]**
+(https://surveillantcity.org/).
 
 **Vahan M. Misakyan - Founder and Director**
