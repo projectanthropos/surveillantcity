@@ -1,3 +1,9 @@
+**Implementation/Documentation/review by Taihui Li, research work under the supervision of Vahan M. Misakyan**
+
+&nbsp;
+&nbsp;
+
+
 # Generative Adversarial Network (GAN) 
 
 This repo conducts the image synthesis. In particular, it learns the pattern of images (cities/buildings) and then generates images with similar patterns. This implementation mainly follows the DCGAN paper which can be found [here](https://arxiv.org/abs/1511.06434).
