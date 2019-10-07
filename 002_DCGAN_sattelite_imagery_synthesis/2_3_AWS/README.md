@@ -1,3 +1,9 @@
+**Implementation/Documentation/review by Taihui Li, research work under the supervision of Vahan M. Misakyan**
+
+&nbsp;
+&nbsp;
+
+
 # Host Deep Learning Models on AWS EC2
 
 ## Table of Contents
