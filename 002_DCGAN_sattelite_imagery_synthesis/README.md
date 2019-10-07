@@ -5,7 +5,7 @@
 
 # Image Synthesis
 
-* For web scraping, please visit [4_1_web_scrape_images](https://github.com/taihui/RA_Summer2019/tree/master/4_image_synthesis/4_1_web_scrape_images).
+* For web scraping, please visit [4_1_web_scrape_images](https://github.com/projectanthropos/surveillantcity/tree/master/002_DCGAN_sattelite_imagery_synthesis/2_1_satellite_imagery).
 
 * For how to get satellite imagery, please visit [4_1_satellite_imagery](https://github.com/taihui/RA_Summer2019/tree/master/4_image_synthesis/4_1_satellite_imagery).
 
