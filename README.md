@@ -1,4 +1,4 @@
-#© Surveillant City Lab 2019
+# © Surveillant City Lab 2019
 
 **surveillantcity.org**
 
