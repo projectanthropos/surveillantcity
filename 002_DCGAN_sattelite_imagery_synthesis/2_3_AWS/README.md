@@ -1,4 +1,4 @@
-**Implementation/Documentation/review by Taihui Li, RA, assisting the research agenda of Vahan M. Misakyan ©SurveillantCityLab 2018-19**
+**Implementation/Documentation/review by Taihui Li, RA, assisting the research of Vahan M. Misakyan ©SurveillantCityLab 2018-19**
 
 &nbsp;
 &nbsp;
