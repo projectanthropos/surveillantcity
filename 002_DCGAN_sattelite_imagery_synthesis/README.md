@@ -1,4 +1,4 @@
-**Implementation/Documentation/review by Taihui Li, assisting the research agenda of Vahan M. Misakyan ©surveillantcity.org**
+**Implementation/Documentation/Review by Taihui Li, RA, assisting the research agenda of Vahan M. Misakyan ©surveillantcity.org**
 
 &nbsp;
 &nbsp;
