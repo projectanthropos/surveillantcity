@@ -1,4 +1,4 @@
-**Documentation/review by Taihui Li, research assistant work under the supervision of Vahan M. Misakyan**
+**Documentation/review by Taihui Li, RA, assisting the research agenda of Vahan M. Misakyan ©SurveillantCityLab 2018-19**
 
 
 **content availability after publication**
