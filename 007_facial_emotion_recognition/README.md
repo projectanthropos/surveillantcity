@@ -9,7 +9,7 @@
 
 This FER code follows the idea (network structure) proposed in the paper [DeXpression: Deep Convolutional Neural Network for Expression Recognition](https://arxiv.org/abs/1509.05371). The detailed network structure is presented in Figure 4, Section 5. 
 
-The dataset used to train the neural network is [Fer2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data). The dataset include 28,709 examples in its traning set, 3,589 examples in its public test set (I used it as the validation set), and 3,589 examples in its private test set (I used it as the test set).
+The dataset used to train the neural network is [Fer2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data). The dataset include 28,709 examples in its traning set, 3,589 examples in its public test set (used here as the validation set), and 3,589 examples in its private test set (I used it as the test set).
 
 
 ## Table of Contents
